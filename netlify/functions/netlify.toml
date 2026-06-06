@@ -1,0 +1,6 @@
+finflow/
+ ├── netlify/
+ │    └── functions/
+ │         └── chat.js
+ ├── index.html
+ └── netlify.toml
